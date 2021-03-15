@@ -10,6 +10,7 @@
 
     <modules>
         <module>configuration-client</module>
+        <module>configuration-client-n</module>
         <module>configuration-service</module>
     </modules>
 
